@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  z-index: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+/* Remove o cursor de texto (caret) de todos os elementos que não são campos de formulário */
+body, p, h1, h2, h3, h4, h5, h6, li, span, div {
+  caret-color: transparent; /* remove o cursor piscando */
+}
