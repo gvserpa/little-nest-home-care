@@ -2,6 +2,12 @@
 
 A landing page for **Little Nest**, a home day care (family care) service, built with **React**, **HTML**, and **CSS**. The project is still in development, but key features and animations are implemented.
 
+
+## Live Demo
+
+- [Little Nest – Home Care Landing Page](little-nest-home-care.vercel.app)
+
+  
 ---
 
 ## Table of Contents
